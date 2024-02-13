@@ -1,24 +1,10 @@
-### Hello There,
-*** My name is Domanik Logan, I am a currently pursuing a bachelors in Computer Science at Oregon State University. 
+Hello There,
+    My name is Domanik Logan, I am a currently pursuing a bachelors in Computer Science at Oregon State University. 
     Some languages I am proficient in are C++, C, JavaScript, and Python. Below I will link projects that I have worked on, 
-    in collaboration, or solely by myself.*** 
+    in collaboration, or solely by myself.
 How to reach Me: 
  - Email: domaniklogan2002@gmail.com
  
 Projects I have worked on: 
   - https://github.com/MrF1ow/Image_Viewer_Editor
   - https://github.com/Domanik-Logan/portfolio 
-<!--
-**Domanik-Logan/Domanik-Logan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
