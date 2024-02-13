@@ -1,5 +1,7 @@
 ### Hello There,
-    My name is Domanik Logan, I am a currently pursuing a bachelors in Computer Science at Oregon State University. Some languages I am proficient in are C++, C, JavaScript, and Python. Below I will link projects that I have worked on, in collaboration, or solely by myself. 
+*** My name is Domanik Logan, I am a currently pursuing a bachelors in Computer Science at Oregon State University. 
+    Some languages I am proficient in are C++, C, JavaScript, and Python. Below I will link projects that I have worked on, 
+    in collaboration, or solely by myself.*** 
 How to reach Me: 
  - Email: domaniklogan2002@gmail.com
  
