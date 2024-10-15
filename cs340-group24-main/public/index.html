@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>NetflixDB</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h3>View Accounts</h3>
+  <table id="accountTable">
+    <tr>
+      <th>Account ID</th>
+      <th>Address</th>
+      <th>City</th>
+      <th>Country Code</th>
+      <th>Email Address</th>
+      <th>Actions</th>
+    </tr>
+  </table>
+
+  <h3 class = "hidden"> Update Account</h3>
+  <form class = "hidden" id="updateAccountForm">
+    <label for="addressInputUpdate">Address:</label>
+    <input type="text" id="addressInputUpdate" required>
+    <label for="cityInputUpdate">City:</label>
+    <input type="text" id="cityInputUpdate" required>
+    <label for="countryCodeInputUpdate">Country Code:</label>
+    <input type="text" id="countryCodeInputUpdate" required>
+    <label for="emailInputUpdate">Email Address:</label>
+    <input type="email" id="emailInputUpdate" required>
+    <button type="submit">Update Account</button>
+    <button type="cancel">Cancel</button>
+  </form>
+
+  <h3>Add Account</h3>
+  <form id="addAccountForm">
+    <label for="addressInput">Address:</label>
+    <input type="text" id="addressInput" required>
+    <label for="cityInput">City:</label>
+    <input type="text" id="cityInput" required>
+    <label for="countryCodeInput">Country Code:</label>
+    <input type="text" id="countryCodeInput" required>
+    <label for="emailInput">Email Address:</label>
+    <input type="email" id="emailInput" required>
+    <button type="submit">Add Account</button>
+  </form>
+
+  <ul>Links:
+    <li><a href="movies.html"> Movies </a></li>
+    <li><a href="actors.html"> Actors </a></li>
+    <li><a href="events.html"> Events </a></li>
+    <li><a href="profiles.html"> Profiles </a></li>
+  </ul>
+  <script src="index.js"></script>
+</body>
+</html>

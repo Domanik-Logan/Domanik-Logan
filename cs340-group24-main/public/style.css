@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+    margin-top: 30px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+ul, li {
+    display: inline;
+    margin: 10px;
+    padding-left: 10px;
+}
